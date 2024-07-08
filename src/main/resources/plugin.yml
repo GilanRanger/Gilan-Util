@@ -1,0 +1,4 @@
+name: Gilan-Util
+version: '${project.version}'
+main: me.gilan.gilanutil.MainUtil
+api-version: '1.21'
